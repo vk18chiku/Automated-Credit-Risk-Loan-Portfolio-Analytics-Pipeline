@@ -62,7 +62,7 @@ The executive dashboard provides a high-level view of the loan portfolio, includ
 ## Risk & Default Deep Dive
 
 <p align="center">
-  <img src="./screenshots/screenshots/risk_default_deep_dive.png" alt="Risk and Default Deep Dive Dashboard" width="1000">
+  <img src="Screenshot 2026-08-30 231029.png">
 </p>
 
 The Risk & Default Deep Dive dashboard focuses on borrower risk and default behavior, including:
