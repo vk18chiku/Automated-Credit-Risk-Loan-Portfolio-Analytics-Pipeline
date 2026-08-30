@@ -42,7 +42,7 @@ https://www.kaggle.com/datasets/wordsforthewise/lending-club
 ## Executive Portfolio Overview
 
 <p align="center">
-  <img src="./screenshots/screenshots/executive_portfolio_overview.png" alt="Executive Portfolio Overview Dashboard" width="1000">
+  <img src="Screenshot 2026-08-30 231021.png">
 </p>
 
 The executive dashboard provides a high-level view of the loan portfolio, including:
